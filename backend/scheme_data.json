@@ -1,0 +1,57 @@
+{
+  "schemes": [
+    {
+      "scheme_id": "ab-pmjay-70-plus",
+      "scheme_name": "Ayushman Bharat PM-JAY: Senior Citizen 70+ Pathway",
+      "benefit": "Cashless health cover up to ₹5 lakh per family per year under the senior-citizen expansion.",
+      "required_documents": [
+        "Aadhaar-based e-KYC for enrolment"
+      ],
+      "official_sources": [
+        "https://nha.gov.in/img/resources/English_FAQs_related_to_the_benefits_for_senior_citizens_under_the_AB-PMJAY_scheme.pdf"
+      ],
+      "limitations": [
+        "This is only the age-70-and-over senior-citizen pathway; it does not evaluate other PM-JAY eligibility pathways.",
+        "The result is a preliminary screening outcome, not an Ayushman Card or coverage approval."
+      ]
+    },
+    {
+      "scheme_id": "pm-kisan",
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "benefit": "₹6,000 per year paid in three equal instalments, subject to official verification and registration.",
+      "required_documents": [
+        "Land ownership or land record supporting the farmer-family claim",
+        "Aadhaar and e-KYC documents required by the registration channel",
+        "Bank account details for DBT, as required at registration"
+      ],
+      "official_sources": [
+        "https://pmkisan.gov.in/"
+      ],
+      "limitations": [
+        "Land records, family details, exclusion declarations, and government verification are outside this preliminary screening engine.",
+        "The engine does not invent a landholding size limit or income limit.",
+        "A likely eligible result does not confirm registration or payment."
+      ]
+    },
+    {
+      "scheme_id": "pmuy",
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "benefit": "Deposit-free LPG connection support: ₹1,600 for a 14.2 kg connection or ₹1,150 for a 5 kg connection, plus the first refill and stove at no cost under the current PMUY FAQ.",
+      "required_documents": [
+        "KYC and Aadhaar documents for the adult woman applicant and household members as requested by the distributor",
+        "Address proof where the Aadhaar address is not sufficient",
+        "Ration card or another government family-composition document",
+        "Signed poor-household deprivation declaration",
+        "Bank account details for applicable subsidy or assistance processing"
+      ],
+      "official_sources": [
+        "https://www.pmuy.gov.in/ujjwala2.html",
+        "https://pmuy.gov.in/faq.html"
+      ],
+      "limitations": [
+        "The distributor must verify the household composition, declaration or category, address, and connection records.",
+        "The result is a preliminary screening outcome and does not guarantee connection issuance or subsidy."
+      ]
+    }
+  ]
+}
